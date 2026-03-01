@@ -1,0 +1,13 @@
+# Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Folders to ignore (like environments or dependencies)
+node_modules/
+venv/
+env/
